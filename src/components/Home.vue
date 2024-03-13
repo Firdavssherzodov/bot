@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-gradient-to-r from-cyan-500 to-blue-500 text-gray-200 h-[920px] "
+    class="bg-gradient-to-r from-cyan-500 to-blue-500 text-gray-200 h-[920px] lg:block hidden"
   >
     <Header />
     <Form_section />

@@ -9,7 +9,7 @@
         Yobir-Yobit
       </fwb-navbar-logo>
     </template>
-    <ul class="flex justify-between w-[25%]">
+    <ul class="flex justify-between xl:-[25%] lg:w-[30%]">
       <router-link to="/">
       <li>Home</li>
     </router-link>

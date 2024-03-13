@@ -1,11 +1,13 @@
 <template>
-  <section class="bg-gradient-to-r from-cyan-500 to-blue-500 text-gray-200 h-[920px]">
+  <section
+    class="bg-gradient-to-r from-cyan-500 to-blue-500 text-gray-200 h-[920px]"
+  >
     <div>
       <Header />
     </div>
-<h1 class="text-center font-semibold text-xl">History</h1>
-    <section class="w-[75%] m-auto bg-slate-100 rounded-lg my-10 py-5" >
-      <div class="w-[25%] rounded-xl pb-8 bg-white m-5 text-black shadow">
+    <h1 class="text-center font-semibold text-xl">History</h1>
+    <section class="xl:w-[75%] w-10/12 m-auto bg-slate-100 rounded-lg my-10 py-5">
+      <div class="w-[25%] rounded-xl pb-8 bg-white m-5 text-black shadow hover:shadow-md">
         <p class="py-1 px-3 font-semibold text-blue-600">user</p>
         <img
           src="https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"
